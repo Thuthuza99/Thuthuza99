@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Thuthuza99
-- 👀 I’m interested in Food
+- 👀 I’m interested in learning new things in life
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on crop prices
-- 📫 How to reach me 
+- 📫 How to reach me, through my emails
 - 😄 Pronouns: She
-- ⚡ Fun fact: data science will kill me one day
+- ⚡ Fun fact: keep on trying even if it hurts
 - 
 
 <!---
